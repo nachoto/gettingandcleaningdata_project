@@ -2,7 +2,7 @@
 
 This repository contains the description of the scripts used to complete the programming assigment for the GETTING AND CLEANING DATA course.
 The scrips are:
-* Item downwoad_files.R: This script downloads the .zip file
+* Item download_files.R: This script downloads the .zip file
 * Item run_analysis.R: This script process the files in the .zip file to produce the desired output.
 
 The assumption is that the file with the measures has been downloaded and uncompressed. 
